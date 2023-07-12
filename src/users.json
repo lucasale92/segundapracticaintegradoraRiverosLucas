@@ -1,0 +1,17 @@
+[
+    {
+      "first_name": "coder",
+      "last_name": "coder",
+      "email": "adminCoder@coder.com",
+      "pass": "adminCod3r123",
+      "isAdmin": true
+    },
+    {
+      "first_name": "Lucas",
+      "last_name": "Riveros",
+      "email": "lucas@lucas.com",
+      "pass": "asd",
+      "isAdmin": false
+    }
+  ]
+  
